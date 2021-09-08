@@ -1,6 +1,6 @@
 # Hey, I'm Marcus 👋
 
-I'm a first-year developer student from [yrgo](https://github.com/yrgo) Previously worked [@Mild](https://www.mild.se/) helping clients from different sectors to create beautiful and user-focused websites.
+I'm a first-year developer student from [yrgo](https://github.com/yrgo). Previously worked [@Mild](https://www.mild.se/) helping clients from different sectors to create beautiful and user-focused websites.
 
 - 🔭 I’m currently working on updating my portfolio, which will hopefully be done someday
 - 🌱 I’m currently learning the basics of front-end development
