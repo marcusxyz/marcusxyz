@@ -1,6 +1,6 @@
 # Hey, I'm Marcus 👋
 
-I'm a first-year developer student from [yrgo](https://github.com/yrgo). Designing beautiful and user-focused websites is what I enjoy doing and one day hopefully, I might be able to develop them.
+I'm a second-year developer student from [yrgo](https://github.com/yrgo). Designing beautiful and user-focused websites is what I enjoy doing and one day hopefully, I might be able to develop them.
 
 Feel free to reach out
 
